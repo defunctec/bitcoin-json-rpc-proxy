@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "@types/node": "^8.5.2",
-        "crown-core": "^2.0.0",
+        "crown-core": "^0.13.0",
         "bluebird": "^3.5.1",
         "cors": "^2.8.4",
         "express": "^4.16.2"

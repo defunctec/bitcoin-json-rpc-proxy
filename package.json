@@ -1,7 +1,7 @@
 {
-    "name": "bitcoin-json-rpc-proxy",
-    "author": "Zacky Pickholz <zacky@codebyz.com>",
-    "description": "A simple bitcoin JSON RPC proxy server",
+    "name": "crown-json-rpc-proxy",
+    "author": "<defunctec <defuncteconomics@gmail.com>",
+    "description": "A simple Crown JSON RPC proxy server",
     "version": "1.0.0",
     "license": "MIT",
     "main": "index.js",
@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "@types/node": "^8.5.2",
-        "bitcoin-core": "^2.0.0",
+        "crown-core": "^2.0.0",
         "bluebird": "^3.5.1",
         "cors": "^2.8.4",
         "express": "^4.16.2"

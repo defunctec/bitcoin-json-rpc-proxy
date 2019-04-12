@@ -1,4 +1,4 @@
-import * as Client from 'bitcoin-core';
+import * as Client from 'crown-core';
 import * as Promise from 'bluebird';
 
 let connected: boolean = false;
